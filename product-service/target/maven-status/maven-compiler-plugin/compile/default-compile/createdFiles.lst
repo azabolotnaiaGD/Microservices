@@ -1,0 +1,7 @@
+org/example/ProductServiceApplication.class
+org/example/model/InventoryStatus.class
+org/example/client/InventoryClient.class
+org/example/controller/ProductController.class
+org/example/service/ProductService.class
+org/example/client/CatalogClient.class
+org/example/model/Product.class

@@ -1,0 +1,4 @@
+org/example/repository/ProductRepository.class
+org/example/CatalogServiceApplication.class
+org/example/controller/ProductController.class
+org/example/model/Product.class

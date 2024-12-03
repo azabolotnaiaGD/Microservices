@@ -1,0 +1,4 @@
+org/example/controller/InventoryController.class
+org/example/repository/InventoryRepository.class
+org/example/InventoryServiceApplication.class
+org/example/model/InventoryStatus.class
